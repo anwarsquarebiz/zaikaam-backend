@@ -1,0 +1,5 @@
+djangorestframework
+django-celery-results
+drf-spectacular
+djangorestframework-simplejwt
+drf-spectacular
